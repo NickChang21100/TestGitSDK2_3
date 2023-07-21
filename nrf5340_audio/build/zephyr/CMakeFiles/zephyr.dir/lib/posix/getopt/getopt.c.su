@@ -1,0 +1,2 @@
+D:/ncs/v2.3.0/zephyr/lib/posix/getopt/getopt.c:48:6:getopt_init	8	static
+D:/ncs/v2.3.0/zephyr/lib/posix/getopt/getopt.c:78:5:getopt	96	dynamic,bounded

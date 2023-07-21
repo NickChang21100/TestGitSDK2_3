@@ -1,0 +1,4 @@
+D:/ncs/v2.3.0/zephyr/drivers/sensor/sensor_shell.c:177:13:channel_name_get	4	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/sensor_shell.c:201:13:device_name_get	8	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/sensor_shell.c:83:12:handle_channel_by_name	112	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/sensor_shell.c:136:12:cmd_get_sensor	24	static

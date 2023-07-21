@@ -1,0 +1,6 @@
+D:/ncs/v2.3.0/zephyr/drivers/sensor/ina23x/ina230.c:27:12:ina230_channel_get	0	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/ina23x/ina230.c:80:12:ina230_sample_fetch	104	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/ina23x/ina230.c:143:12:ina230_attr_get	40	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/ina23x/ina230.c:121:12:ina230_attr_set	40	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/ina23x/ina230.c:187:12:ina230_calibrate	8	static
+D:/ncs/v2.3.0/zephyr/drivers/sensor/ina23x/ina230.c:205:12:ina230_init	104	dynamic,bounded
